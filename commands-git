@@ -9,4 +9,7 @@ pour les 3 commandes de push il y a :
 git clone
 git add.
 git commit -m 
-git push
+git push 
+
+pour " pull " : on doit aller sur le fichier, on fait midifier le fichier en appuyant sur " modifier " 
+ensuite on doit appuyé sur " commit changes " pull
