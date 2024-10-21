@@ -1,0 +1,12 @@
+Pour cloner un "repository" il faut ouvrir github faire :
+aller sur repository
+faire new
+choisir Repository name
+Ensuite on peut le mettre en privé ou public
+
+Puis on peut créer le Repository 
+pour les 3 commandes de push il y a :
+git clone
+git add.
+git commit -m 
+git push
